@@ -1,0 +1,23 @@
+/* CSS Variables */
+/* 06 FEB 2024 */
+
+:root {
+
+    --lightblue: rgb(131, 157, 202);
+
+    --green: green;
+    
+
+}
+
+body {
+    background-color: var(--lightblue);
+}
+
+h1 {
+    background-color: var(--lightblue);
+}
+
+p {
+    background-color: var(--lightblue);
+}
